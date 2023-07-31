@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////
-// Fixing flexbox gap property missing in some Safari versions
+// Fixing flexbox gap property missing in some browser versions
 function checkFlexGap() {
   var flex = document.createElement("div");
   flex.style.display = "flex";
